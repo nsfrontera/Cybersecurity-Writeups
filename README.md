@@ -1,2 +1,2 @@
 # Cybersecurity-Writeups
-Solutions to various CTF exercises
+Solutions to various CTF exercises and Competitions.
